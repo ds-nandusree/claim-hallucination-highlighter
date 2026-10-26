@@ -1,0 +1,354 @@
+[
+ {
+  "type": "answerable",
+  "question": "When was the Eiffel Tower completed and who designed it?",
+  "greedy": "The Eiffel Tower was completed on March 31, 1889, and was designed by Gustave Eiffel and his team of engineers.",
+  "samples": [
+   "The Eiffel Tower was completed on March 31, 1889, and was designed by Gustave Eiffel.",
+   "The Eiffel Tower was completed on March 31, 1889. It was designed by Gustave Eiffel and his team of engineers.",
+   "The Eiffel Tower was completed on March 31, 1889. It was designed by Gustave Eiffel and his team for the World's Fair held that year in Paris, France.",
+   "The Eiffel Tower was completed on March 31, 1889, designed by Gustave Eiffel."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "Who built the Taj Mahal and why?",
+  "greedy": "The Taj Mahal was built by Mughal Emperor Shah Jahan as a mausoleum for his beloved wife Mumtaz Mahal. It is considered one of the greatest architectural achievements of the world and an iconic symbol of love and beauty.",
+  "samples": [
+   "The Taj Mahal was built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. He ordered its construction between 1632 and 1653. The building is considered one of the greatest architectural achievements in history and represents the pinnacle of Mughal art and engineering.",
+   "The Taj Mahal was built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. He ordered its construction between 1632 and 1653, using white marble from nearby quarries. The monument's intricate designs and beautiful architecture reflect Mughal artistic traditions and were influenced by Persian and Indian styles. Its construction symbolized Shah Jahan's love for his wife and the enduring nature of their union.",
+   "The Taj Mahal was built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal who died giving birth to their 14th child. The construction took over 20 years from 1632 to 1653 AD.",
+   "The Taj Mahal was built by Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal, who died giving birth to their 14th child. The construction began in 1632 and took over 20 years to complete. It is considered one of the greatest architectural achievements in India and one of the most beautiful buildings in the world."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "What is the Colosseum and when was it built?",
+  "greedy": "The Colosseum, also known as the Flavian Amphitheatre, was a massive amphitheater located in Rome, Italy. It was built between 70-80 AD during the reign of Emperor Vespasian and completed under his son Titus. The structure could seat up to 50,000 spectators and featured elaborate gladiatorial contests, animal hunts, and public spectacles that were popular throughout the Roman Empire.",
+  "samples": [
+   "The Colosseum, also known as the Flavian Amphitheatre, was an enormous amphitheater located in Rome, Italy. It was constructed between 70-80 AD during the reign of Emperor Vespasian and Emperor Titus. The structure was designed primarily for gladiatorial contests and public spectacles but could also host other events such as mock sea battles, animal hunts, executions, re-enactments of famous battles, and dramas based on Classical mythology. Its construction marked a significant milestone in the history of Roman architecture and entertainment systems.",
+   "The Colosseum, also known as the Flavian Amphitheatre, is an ancient amphitheater located in Rome, Italy. It was built during the reign of Emperor Vespasian between 70-80 AD. The structure served as a venue for gladiatorial contests and public spectacles.",
+   "The Colosseum, also known as the Flavian Amphitheatre, was an enormous amphitheater located in ancient Rome that was constructed between AD 70 and 80. It was designed primarily for gladiatorial contests and public spectacles such as animal hunts and executions, but was also used for dramas based on famous stories of the past. The construction took approximately 10 years to complete and could hold up to 50,000 spectators. Today, it remains one of the most iconic symbols of Imperial Rome and attracts millions of visitors annually.",
+   "The Colosseum, also known as the Flavian Amphitheatre, was a massive amphitheater located in Rome, Italy. It was constructed during the reign of Emperor Vespasian between 70-80 AD and continued construction under his son Titus until 80 AD. The Colosseum could hold up to 50,000 spectators and served for over 60 years. It featured various spectacles such as gladiatorial contests, animal hunts, and mock sea battles."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "Where is the Statue of Liberty and who designed it?",
+  "greedy": "The Statue of Liberty can be found on Liberty Island in New York Harbor, United States. It was designed by French sculptor Frédéric Auguste Bartholdi.",
+  "samples": [
+   "The Statue of Liberty can be found on Liberty Island off the coast of New York City in the United States. It was designed by French sculptor Frédéric Auguste Bartholdi.",
+   "The Statue of Liberty stands at Liberty Island in New York Harbor, United States. It was designed by French sculptor Frédéric Auguste Bartholdi.",
+   "The Statue of Liberty can be found on Liberty Island off the coast of New York City, USA. It was designed by French sculptor Frédéric Auguste Bartholdi.",
+   "The Statue of Liberty is located on Liberty Island in New York Harbor, United States. It was designed by French sculptor Frédéric Auguste Bartholdi."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "Describe the Great Wall of China in a few sentences.",
+  "greedy": "The Great Wall of China is an extensive series of fortifications built along the northern borders of ancient China over several centuries. It stretches approximately 13,000 miles (21,000 kilometers) and consists of walls, towers, watchtowers, and other structures constructed from various materials including stone, brick, tamped earth, wood, and even snow. The wall was primarily built during the Ming Dynasty between the 14th and 17th centuries AD to protect against invasions by nomadic groups such as the Mongols. Today, many sections of this historic engineering marvel remain standing, serving as both a symbol of Chinese civilization and a popular tourist attraction.",
+  "samples": [
+   "The Great Wall of China is an extensive series of fortifications built along the northern borders of ancient China over several centuries, starting from the 7th century BC. It stretches approximately 13,000 miles (21,000 kilometers) and consists of various walls, towers, and watchtowers constructed using bricks, stones, and earth. The wall served as a defense mechanism against invasions by nomadic tribes such as the Mongols and Turkic peoples. Today, many sections of this historical monument remain standing, attracting millions of visitors each year who come to marvel at its impressive scale and historical significance.",
+   "The Great Wall of China is an extensive series of fortifications built along the southern and northern borders of China over several centuries. Constructed primarily between the 7th century BC and the early 16th century AD, it stretches for approximately 13,000 miles (21,000 kilometers) across mountains, deserts, and rivers, connecting different states and empires. The wall serves as a testament to ancient Chinese engineering prowess and military strategy, embodying both cultural and historical significance.",
+   "The Great Wall of China is an extensive series of fortifications built along the southern edge of the Asian continent over several centuries, primarily during the Ming dynasty (1368-1644). Constructed to protect against invasions from nomadic groups such as the Mongols and various ethnic minorities, the wall stretches approximately 13,000 miles (21,000 kilometers) across northern China. It serves as a symbol of Chinese civilization's resilience and engineering prowess, attracting millions of tourists each year who marvel at its architectural grandeur and historical significance.",
+   "The Great Wall of China is an extensive series of fortifications built along the northern borders of China over several centuries. It stretches approximately 13,000 miles (21,000 kilometers) and serves as one of the most recognizable symbols of Chinese history and engineering prowess. Constructed primarily using stone, brick, tamped earth, and wood, these walls have stood for thousands of years, with some sections still intact today. The Great Wall has been recognized as a World Heritage Site and is considered a UNESCO World Heritage site due to its cultural, historical, and architectural significance."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "What is Machu Picchu and who built it?",
+  "greedy": "Machu Picchu is an ancient Incan city located high in the Andes Mountains of Peru. It was built around 1500 AD by the Incas as their royal estate or retreat.",
+  "samples": [
+   "Machu Picchu is an ancient Incan city located high in the Andes Mountains of Peru. It was built between 1450 and 1530 CE by the Inca civilization under the direction of Pachacuti. The exact purpose of Machu Picchu remains a mystery, but it is believed to have been a royal estate or religious site for the Inca emperor. Today, it is one of the most visited archaeological sites in South America, attracting thousands of visitors each year.",
+   "Machu Picchu is an ancient Incan city located high in the Andes Mountains of Peru. It was built by the Incas, an indigenous people of South America who flourished from the 13th to the 16th century. The precise date of its construction is uncertain, but it has been estimated that it may have been constructed between 1450 and 1500 CE. The purpose of Machu Picchu remains a mystery, as it has never been fully excavated or studied. However, scholars believe that it served as a royal estate for the Inca emperor Pachacuti, a mountain retreat, or even a fortress against invaders.",
+   "Machu Picchu is an ancient Incan city located high in the Andes Mountains of Peru. It was built by the Inca civilization around the 15th century.",
+   "Machu Picchu is an ancient Incan city nestled high in the Andes Mountains of Peru. It was built around 1500 AD by the Inca civilization."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "When did the Golden Gate Bridge open and where is it?",
+  "greedy": "The Golden Gate Bridge opened on May 27, 1937. It spans the Golden Gate Strait between San Francisco's Yerba Buena Island and the city of San Francisco itself. The bridge connects the city with Marin County and was designed by Joseph Strauss and architect Irving Morrow.",
+  "samples": [
+   "The Golden Gate Bridge opened on May 27, 1937. It spans the Golden Gate Strait between San Francisco and Marin County, California. The bridge serves as an iconic landmark of San Francisco and connects the city with Marin County.",
+   "The Golden Gate Bridge opened on October 28, 1937. It spans the Golden Gate strait between San Francisco and Marin County, California, United States.",
+   "The Golden Gate Bridge opened on May 27, 1937. It spans the Golden Gate strait between San Francisco and Marin County, California. The bridge connects the city of San Francisco with the peninsula that forms Treasure Island.",
+   "The Golden Gate Bridge opened on May 27, 1937, connecting San Francisco with Marin County across the Golden Gate strait. It spans approximately 2 miles (3. 2 km) from Pier 33 at Fisherman's Wharf to Yerba Buena Island, with its iconic red-and-yellow color scheme making it one of the most recognizable bridges in the world."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "What is Stonehenge and where is it located?",
+  "greedy": "Stonehenge is an ancient prehistoric monument consisting of a ring of massive standing stones arranged in a circle with smaller sarsen stones at the center. It is located in Wiltshire, England, approximately 80 miles southwest of London.",
+  "samples": [
+   "Stonehenge is an ancient monument consisting of a ring of massive standing stones arranged in a circle, surrounded by earthworks. It is located in Wiltshire, England, near the town of Salisbury.",
+   "Stonehenge is an ancient prehistoric monument located in Wiltshire, England. It consists of a ring of large stones arranged in a circle with smaller vertical stones standing up from the ground within the circle. The exact purpose or construction date remains unclear, though it is believed to have been built over several centuries beginning around 3000 BCE.",
+   "Stonehenge is an ancient prehistoric monument located in Wiltshire, England. It consists of a circle of large stones arranged in concentric circles and horseshoe-shaped arrangements. The exact purpose or function of this site remains a subject of debate among historians and archaeologists.",
+   "Stonehenge is an ancient stone circle monument situated in Wiltshire, England. It consists of massive standing stones arranged in circles and arcs, believed to have been constructed over 5000 years ago. The exact purpose of this site remains debated among scholars today."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "Who designed the Sydney Opera House and when did it open?",
+  "greedy": "The Sydney Opera House was designed by Danish architect Jørn Utzon. It opened on October 20, 1973.",
+  "samples": [
+   "The Sydney Opera House was designed by Danish architect Jørn Utzon. It opened on October 20, 1973.",
+   "The Sydney Opera House was designed by Danish architect Jørn Utzon. It opened on January 26, 1973.",
+   "The Sydney Opera House was designed by Danish architect Jørn Utzon. It opened on October 20, 1973.",
+   "The Sydney Opera House was designed by Danish architect Jørn Utzon. He completed the design in 1957 but his contract with the Australian government expired without him being paid for the project. Construction continued under new architects, resulting in its completion in 1973."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "What is the Charminar and where is it?",
+  "greedy": "The Charminar is an iconic monument located in Hyderabad, India. It was built during the Mughal Empire period as part of the Grand Bazaar complex. The structure features four towering arches with intricate carvings and is known for its stunning architecture and historical significance.",
+  "samples": [
+   "The Charminar is an iconic monument located in Hyderabad, India. It was built during the reign of Nizam Ali Khan I in 1591 and consists of four square towers connected by archways. The structure is known for its intricate carvings and stunning views of the surrounding landscape.",
+   "The Charminar is an iconic monument located in Hyderabad, India. It was built during the Mughal Empire period between 1591 and 1608 AD. The structure stands as a prominent landmark on the Nizamabad Road in Old Hyderabad. The Charminar features four towering arches supported by four massive stone pillars and is known for its intricate carvings and stunning architecture.",
+   "The Charminar is an iconic monument located in Hyderabad, India. It was built as part of the city's fortifications during the reign of Muhammad Tughlaq in the 16th century. The structure consists of four towering arches that form a central square, with each side supported by four minarets. The Charminar is known for its intricate carvings and stunning views from its prominent location on the banks of the Musi River.",
+   "The Charminar is an iconic monument located in Hyderabad, Telangana, India. It stands as a magnificent example of Indo-Islamic architecture and is known for its four towering arches that form a square enclosure. The Charminar serves as one of the main landmarks of the city and attracts millions of visitors annually."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "What is the Red Fort and who built it?",
+  "greedy": "The Red Fort, also known as the Ain-e-Akbari, was built by Mughal Emperor Akbar in the early 16th century. It served as the main residence of the Mughal emperors for over two centuries until its decline under Aurangzeb's rule. The fort stands on the banks of the Yamuna River in New Delhi, India, and is considered one of the most iconic landmarks of the country.",
+  "samples": [
+   "The Red Fort is an iconic historical monument located in Delhi, India. It was constructed during the Mughal Empire under the orders of Emperor Shah Jahan between 1638 and 1648. The fort served as the residence for the Mughal emperors until its decline in the late 19th century. Its design showcases the grandeur of Mughal architecture, blending elements from Persian, Indian, and Islamic styles.",
+   "The Red Fort, also known as the Ain-e-Akbari, was built by Mughal Emperor Akbar in the early 16th century. It served as the residence of the Mughal emperors for over two centuries until its partial destruction during the rebellion of Ahmad Shah Abdali in 1739. The fort stands on the eastern bank of the Yamuna River in the old city of Delhi, India, and is an important historical monument representing the grandeur of Mughal architecture.",
+   "The Red Fort, also known as the Ain-i-Akbari, was built during the reign of Mughal Emperor Akbar between 1576 and 1585. It served as the principal royal residence for over two centuries until its decline under Aurangzeb's rule. The fort stands on the eastern bank of the Yamuna River in New Delhi, India, and is an iconic symbol of Indian architecture and history.",
+   "The Red Fort, also known as the Delhi Fort or Lal Qila, is an iconic historical monument located in Old Delhi, India. It was built by the Mughal Emperor Shah Jahan between 1638 and 1648 CE as the imperial residence for his son, Prince Dara Shikoh. The fort served as the seat of power during the Mughal Empire's rule until its decline and eventual fall in the late 19th century. Its construction reflects the grandeur and architectural prowess of the Mughals, with intricate designs, beautiful gardens, and stunning views over the city."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "Where is Angkor Wat and what is it known for?",
+  "greedy": "Angkor Wat is located in Cambodia, specifically in the Siem Reap Province. It is an ancient temple complex built during the Khmer Empire between the 12th and 15th centuries. Known as one of the largest religious monuments in the world, Angkor Wat is famous for its grand scale, intricate architecture, and historical significance as a UNESCO World Heritage Site.",
+  "samples": [
+   "Angkor Wat is located in Cambodia, specifically in the northwestern region near Siem Reap. It's an ancient temple complex that was built during the Khmer Empire between the 12th and 15th centuries. Known as one of the largest religious structures in the world, Angkor Wat is renowned for its intricate carvings and architectural design, reflecting the cultural and spiritual beliefs of the Khmer people at that time.",
+   "Angkor Wat is located in Cambodia and is one of the most famous ancient temples in the world. It was built as a Hindu temple complex during the Khmer Empire period from the 12th century until the 15th century. The temple is renowned for its intricate architecture, beautiful sculptures, and stunning views of the surrounding landscape. Today, Angkor Wat is a UNESCO World Heritage site and attracts millions of visitors each year.",
+   "Angkor Wat is located in Cambodia and is one of the most famous ancient temples in Southeast Asia. It was built as a Hindu temple complex dedicated to the god Vishnu during the Khmer Empire period around the 12th century AD. Today, Angkor Wat serves as an important historical site and tourist attraction, attracting visitors from all over the world who come to admire its grand scale and intricate architecture.",
+   "Angkor Wat is located in Cambodia and is one of the most famous temples in the world. It was built as a Hindu temple during the Khmer Empire and later converted into a Buddhist temple. The temple complex covers an area of about 400 acres and features intricate carvings and statues depicting scenes from Hindu mythology. Today, Angkor Wat is a UNESCO World Heritage Site and attracts millions of visitors each year who come to admire its stunning architecture and cultural significance."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "What is the Gateway of India and why was it built?",
+  "greedy": "The Gateway of India is a historic monument located on the Arabian Sea shore in Mumbai, India. It was built as a symbol of British rule over India and was completed in 1935 during the reign of King George V and Queen Mary. The structure features intricate carvings and ornate details that reflect Indian architectural styles, blending European and Asian influences. Its construction marked the end of British colonial rule in India and served as a testament to the country's rich cultural heritage and its transition from an empire to a nation-state.",
+  "samples": [
+   "The Gateway of India is a famous landmark located at the tip of Mumbai's Golden Mile. It was built as a symbol of British colonial rule over India, serving both as a gateway for ships entering Bombay Harbour and as a monument commemorating Queen Victoria's visit to India in 1876. The structure itself has become an iconic symbol of Mumbai and a popular tourist attraction.",
+   "The Gateway of India, also known as Victoria Terminus, was built in 1878 during British rule in India. It was constructed to commemorate Queen Victoria's visit to India. The building served as the terminus for trains from Europe to India until 1956 when the railways were nationalized. Today, it is a popular tourist attraction and a UNESCO World Heritage Site, showcasing Indian architectural styles while serving as an iconic landmark.",
+   "The Gateway of India is a famous landmark in Mumbai, India. It was built in 1924 as a symbol of British rule over India and serves as an entrance to the Victoria Terminus railway station. The structure's design incorporates elements from Hindu architecture, reflecting the cultural heritage of the region while also serving a practical purpose for transportation.",
+   "The Gateway of India is a historic monument located on the Arabian Sea coast near Mumbai, India. It was constructed during the British colonial era as a symbol of their presence and influence in the region. The gateway serves as an iconic landmark for tourists visiting Mumbai and has become one of India's most recognizable symbols."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "What is the Burj Khalifa and how tall is it?",
+  "greedy": "The Burj Khalifa is a skyscraper located in Dubai, United Arab Emirates. It stands at an impressive height of 828 meters (2,716 feet) from its foundation to the top of its observation deck on the 148th floor. This makes it currently the tallest building in the world.",
+  "samples": [
+   "The Burj Khalifa is a skyscraper located in Dubai, United Arab Emirates. It stands at an impressive height of 828 meters (2,716 feet) including its antenna, making it currently the tallest building in the world.",
+   "The Burj Khalifa is one of the tallest buildings in the world located in Dubai, United Arab Emirates. It stands at an impressive height of approximately 828 meters (2,716 feet).",
+   "The Burj Khalifa is a skyscraper located in Dubai, United Arab Emirates. It stands at an impressive height of 828 meters (2,717 feet).",
+   "The Burj Khalifa is one of the tallest buildings in the world located in Dubai, United Arab Emirates. It stands at an impressive height of approximately 828 meters (2,716 feet). This towering structure has become a symbol of modern engineering and architectural innovation, showcasing advanced materials and construction techniques that have set new standards for skyscraper design."
+  ]
+ },
+ {
+  "type": "answerable",
+  "question": "What is the Leaning Tower of Pisa known for?",
+  "greedy": "The Leaning Tower of Pisa is renowned for its unique and iconic architectural structure that tilts at an angle due to poor foundation construction. It has become one of Italy's most recognizable landmarks and attracts millions of visitors each year. The tower stands as a testament to both engineering challenges and human ingenuity.",
+  "samples": [
+   "The Leaning Tower of Pisa is known for its unique and iconic appearance due to its tilt, which was caused by an unstable foundation. It has become one of the most recognizable landmarks in Italy and attracts millions of visitors each year.",
+   "The Leaning Tower of Pisa, located in Italy's Tuscany region, is renowned for its iconic and unique tilt that has captivated visitors since it was built in the 12th century. Standing at approximately 56 meters tall with an initial lean of about 3.97 meters, it serves as both a UNESCO World Heritage site and one of Italy's most recognizable landmarks. The tower's construction began in 1173 but continued until 1372, making it one of the oldest and largest bell towers still standing in Europe. Its distinctive tilt and historical significance have made it a symbol of Italian engineering and architecture.",
+   "The Leaning Tower of Pisa is renowned for its unique and iconic architectural style, with its distinctive tilt that has made it one of Italy's most recognizable landmarks. Standing at approximately 56 meters tall, the tower was built between 1173 and 1372 as part of the Cathedral of Pisa. Its tilt, which began shortly after construction started due to unstable foundations, continues to be a subject of scientific interest and debate among architects and engineers worldwide. The tower serves not only as an impressive example of Italian Gothic architecture but also as a symbol of the city of Pisa and Italy itself.",
+   "The Leaning Tower of Pisa is known for its unique and iconic appearance due to an accidental tilt caused by poor construction techniques during its early stages of construction. The tower leans at an angle of about 5 degrees to the vertical, making it one of the most recognizable landmarks in Italy and attracting millions of visitors each year. Its history and architectural significance make it a popular destination for tourists and scholars alike."
+  ]
+ },
+ {
+  "type": "unanswerable",
+  "question": "How many visitors did the Hawa Mahal receive on 1 January 2019?",
+  "greedy": "I'm sorry, but I don't have enough information to answer your question as it pertains to specific historical data about visitor numbers at the Hawa Mahal. The Hawa Mahal is an iconic monument located in Jaipur, India and its exact visitor count for any given day can vary depending on factors such as weather conditions, public holidays, and other external events that may affect tourism. To get accurate and up-to-date information, you would need to consult official records or reliable travel guides from reputable sources.",
+  "samples": [
+   "I'm sorry, but I don't have access to real-time data or specific visitor counts for historical events like the Hawa Mahal. To get accurate information about how many visitors the monument received on a particular date in 2019, you would need to refer to official tourism statistics or visit the official website of the site or relevant cultural institutions.",
+   "I'm sorry, but I don't have enough information or context to answer your question about how many visitors the Hawa Mahal received on 1 January 2019. The Hawa Mahal is an iconic building located in Jaipur, India, and its visitor numbers can vary depending on factors such as weather conditions, public holidays, and events taking place in the area. To get accurate data for that specific date, you would need to refer to official tourism statistics or records from local authorities.",
+   "I'm sorry, but I cannot provide an accurate answer to your question as there is no information available about the number of visitors to the Hawa Mahal on 1 January 2019 or any other specific date. The Hawa Mahal is a historic building located in Jaipur, India and its visitor numbers can vary depending on various factors such as weather conditions, public holidays, events, and other external influences. To obtain this type of precise data, one would need to consult official records or reliable sources from the local tourism authority or cultural institutions associated with the site.",
+   "I'm sorry, but I don't have any specific information about the number of visitors who visited the Hawa Mahal on 1 January 2019. The Hawa Mahal is an iconic monument located in Jaipur, India and it's known for its beautiful red sandstone architecture and intricate windows that showcase women's traditional clothing. Without access to real-time visitor data or historical records, I cannot provide you with an accurate answer regarding the exact number of visitors on that particular date. If you need this information, I would recommend checking official tourism websites or local travel guides for up-to-date statistics."
+  ]
+ },
+ {
+  "type": "unanswerable",
+  "question": "What was the exact cost of the Space Needle in today's dollars?",
+  "greedy": "I'm sorry, but I cannot provide an answer to your question as it is not possible for me to determine the current value of historical items like the Space Needle without specific information about its construction and materials used at that time. Additionally, currency values can fluctuate over time, so even if we had access to this information, it would be difficult to accurately convert it into today's dollars.",
+  "samples": [
+   "The exact cost of the Space Needle in today's dollars is difficult to determine precisely as it has been subject to inflation and changes in currency values over time. However, estimates suggest that the construction cost for the original Space Needle (which opened in 1963) would be equivalent to around $5 million in current U.S. dollars. This estimate takes into account adjustments for inflation since its construction but does not include any value added or improvements made after opening. The Space Needle itself has become an iconic landmark valued highly for its architectural significance and tourist appeal, often cited as one of the most recognizable buildings in North America.",
+   "The exact cost of the Space Needle in today's dollars is difficult to determine precisely due to its complex construction and pricing structure over time. However, estimates suggest that it would be worth approximately $150 million in today's currency. This value is based on an assessment of the historical costs associated with building the observation wheel, including materials, labor, and design fees, adjusted for inflation and economic factors since its completion in 1980. The precise figure can vary slightly depending on the specific valuation method used.",
+   "I'm sorry, but I cannot provide an answer to your question as it is not possible for me to accurately determine the current dollar value of historical items such as the Space Needle without specific data on its construction and inflation rates at that time. Additionally, I do not have access to real-time pricing information or market valuation tools.",
+   "The exact cost of the Space Needle in today's dollars is not publicly disclosed due to its historical value and significance as an iconic landmark. However, it is estimated that the construction cost of the Space Needle was around $16 million in 1980 when it was built. This figure includes both the initial investment for materials and labor and any additional costs associated with securing land rights and permits. As such, the Space Needle remains one of the most expensive buildings ever constructed at the time of its completion."
+  ]
+ },
+ {
+  "type": "unanswerable",
+  "question": "Who was the first person to climb Big Ben's clock tower?",
+  "greedy": "The first person to climb Big Ben's clock tower was Sir Benjamin Hall, who did so on July 11, 1857. This event marked an important milestone in the history of the tower and helped establish it as a popular tourist attraction.",
+  "samples": [
+   "The first person to climb Big Ben's clock tower was Charles Edward Thomson on December 15, 1851. This achievement marked an important milestone in British architecture and engineering history.",
+   "The first person to climb Big Ben's clock tower was Charles Edward Thomson on May 31, 1851. He used a ladder and took about three hours to reach the top of the tower. Thomson climbed back down using a rope tied around his waist. This event became a popular tourist attraction and helped establish Big Ben as one of London's most famous landmarks.",
+   "The first person to climb Big Ben's clock tower was Sir Edmund Hillary on December 17, 1931. This historic achievement marked a significant milestone in the history of mountaineering and British architecture.",
+   "The first person to climb Big Ben's clock tower was Sir Edmund Hillary, an English mountaineer and explorer who became known as one of the world's greatest climbers. On June 3, 1931, he successfully reached the summit of Mount Everest with Tenzing Norgay, making him the first person to reach the peak of Mount Everest from the north side. This achievement earned him international recognition and is considered one of the most significant feats in the history of mountaineering."
+  ]
+ },
+ {
+  "type": "unanswerable",
+  "question": "What is the name of the chief architect's pet dog at the Konark Sun Temple?",
+  "greedy": "I'm sorry, but I cannot provide an answer to your question as there is no information available about the chief architect's pet dog at the Konark Sun Temple. The Konark Sun Temple, also known as the Sun Temple or Surya Devata Temple, is located in Odisha, India and was built between 1328 and 1336 AD during the reign of King Narasimhadeva II of Orissa. It is one of the largest temples dedicated to Lord Surya (the sun god) in the world. However, without more specific information about the temple or its architecture, it would not be appropriate for me to speculate on the identity of any pets that may have been present within its walls.",
+  "samples": [
+   "The name of the chief architect's pet dog at the Konark Sun Temple is named \"Gandharva\". Gandharva was a gift from the king of the gods Indra, who had given it to his architect and engineer, Vishwakarma, as a token of appreciation for his work on constructing the magnificent sun temple. This unique and special gift has been kept with Vishwakarma ever since, serving him as a loyal companion and friend throughout his life. The story behind this extraordinary canine brings together elements of mythology, architecture, and human emotions, making it an interesting tale that highlights the deep bond between humans and their pets.",
+   "The chief architect's pet dog at the Konark Sun Temple is named \"Ganesh.\" This information is based on popular belief and folklore surrounding the temple and its architecture.",
+   "The chief architect's pet dog at the Konark Sun Temple is named Nandi. This majestic animal guards the temple complex and serves as a symbol of strength and protection for those who visit the site.",
+   "I'm sorry, but I don't have enough information to answer your question about the chief architect's pet dog at the Konark Sun Temple. The Konark Sun Temple is an ancient temple complex located on the east coast of India, and while it has been known for centuries, there isn't specific historical or mythological information regarding a chief architect's pet dog associated with it. Without more details or reliable sources about this particular temple, I cannot provide a definitive answer to your query."
+  ]
+ },
+ {
+  "type": "unanswerable",
+  "question": "How many bricks were used to build the Qutb Minar?",
+  "greedy": "The Qutb Minar is an iconic monument located in Delhi, India. It was built during the reign of Sultan Muhammad bin Tughluq and stands at approximately 73 meters tall. The construction involved using over 200,000 bricks, which were sourced from nearby quarries and transported to the site using large wooden pulleys and ropes. These bricks were laid in a unique pattern that creates the distinctive spiral shape of the minaret. The exact number of bricks may vary slightly depending on the source, but it is estimated that around 200,000 bricks were used for its construction.",
+  "samples": [
+   "The Qutb Minar is an iconic structure located in Delhi, India, and it was built using approximately 30,000 bricks. These bricks were arranged in a spiral pattern that rises to a height of over 72 meters. The construction of this minaret took around 16 years, from 1193 CE to 1209 CE under the patronage of Sultan Qutb Shah. The bricks used for its construction came from nearby quarries and were carefully selected based on their size, color, and texture to ensure durability and aesthetic appeal.",
+   "The Qutb Minar is an iconic monument located in Delhi, India. It was built during the reign of Sultan Muhammad bin Tughluq and consists of seven storeys or \"jagiras.\" The total height of the minaret is approximately 73 meters (240 feet). To date, there is no precise figure available for the exact number of bricks used in its construction, as historical records do not provide this specific information. However, it is estimated that around 500,000 bricks were used to construct the Qutb Minar, making it one of the largest brick structures ever built at that time.",
+   "The Qutb Minar is an iconic monument in Delhi, India. It was built during the reign of Sultan Muhammad bin Tughluq from 1368 to 1370 CE. The total number of bricks used for its construction has been estimated at approximately 2 million bricks. These bricks were sourced locally and were laid out using advanced techniques that allowed for the creation of the tower's distinctive spiral shape. The exact dimensions and materials used may vary slightly depending on historical records and archaeological findings.",
+   "The Qutb Minar is an iconic structure located in Delhi, India. It was built between 1193 and 1368 CE during the reign of Sultan Muhammad bin Tughluq. The exact number of bricks used to construct it has been lost over time due to erosion and weathering. However, estimates suggest that around 700,000 bricks were utilized for its construction. These bricks were sourced from nearby quarries and transported to the site using large wooden pulleys and ropes. The intricate design and precise measurements required for such a monumental structure necessitated a significant amount of brickwork, showcasing the advanced engineering techniques available at the time."
+  ]
+ },
+ {
+  "type": "ambiguous",
+  "question": "When was it built?",
+  "greedy": "I'm sorry, but I need more context to answer your question accurately. Could you please provide me with the name of the building or location you're referring to?",
+  "samples": [
+   "I'm sorry, but I cannot provide an answer without more context or information about which specific building you are referring to. Could you please provide me with the name of the building or give me some additional details?",
+   "I'm sorry, but I cannot answer your question without more context or information. Could you please provide me with the specific topic or subject you would like me to answer about?",
+   "I'm sorry, but I need more context to answer your question accurately. Could you please provide me with the name of the specific building or structure you're referring to? Without that information, I cannot determine when it was built.",
+   "I'm sorry, but I need more context to answer your question accurately. Could you please provide me with the name of the building or location you're referring to?"
+  ]
+ },
+ {
+  "type": "ambiguous",
+  "question": "Who designed the tower?",
+  "greedy": "I'm sorry, but I cannot answer this question as there is no specific tower being referred to in your query. Could you please provide more context or information about the tower you are asking about?",
+  "samples": [
+   "I'm sorry, but I cannot answer this question as there is no specific tower being referred to in your query. Could you please provide more context or information about the tower you are asking about?",
+   "The Eiffel Tower was designed by Gustave Eiffel and his team of engineers. It was built between 1887 and 1889 as the entrance arch for the 1889 World's Fair. The design incorporated innovative engineering solutions that were groundbreaking at the time, such as using wrought iron lattice girders instead of traditional columns. The tower stands approximately 324 meters (1,063 feet) tall, with its tallest section being 300 meters high.",
+   "I'm sorry, but I cannot provide an answer without more context or information about which specific tower you are referring to. Could you please specify the name of the tower you would like me to research and provide details on who designed it?",
+   "I'm sorry, but I need more context or information to answer your question accurately. Could you please provide me with more details about the tower you're referring to?"
+  ]
+ },
+ {
+  "type": "ambiguous",
+  "question": "How tall is the bridge?",
+  "greedy": "I'm sorry, but I cannot answer your question as there is no information provided about which specific bridge you are referring to. Please provide more details or context so that I can assist you better.",
+  "samples": [
+   "I'm sorry, but I cannot provide an answer as there is no specific bridge mentioned in your question. Please provide more information or context so that I can assist you better.",
+   "I'm sorry, but as an AI language model, I do not have access to any specific information about the height of a particular bridge. Please provide me with more context or details so that I can assist you better.",
+   "I'm sorry, but as an AI language model, I don't have any information about specific bridges or their heights. Please provide me with more context or details so that I can assist you better.",
+   "I'm sorry, but as an AI language model, I do not have any specific information about the height of a particular bridge. However, if you provide me with more context or details about the bridge you're referring to, I may be able to assist you better."
+  ]
+ },
+ {
+  "type": "ambiguous",
+  "question": "Where is the gate?",
+  "greedy": "I'm sorry, but I cannot answer your question as there is no information provided about where the gate is located. Please provide more context or details so that I can assist you better.",
+  "samples": [
+   "I'm sorry, but your question seems incomplete and doesn't provide enough context or information for me to answer accurately. Could you please clarify what \"gate\" refers to or provide more details about where you're asking this question? This will help me give you a more precise and relevant response.",
+   "I'm sorry, but I don't have enough context or information about where you're asking this question for me to accurately answer. Could you please provide more details or clarify your query?",
+   "I'm sorry, but I cannot provide an answer as there is no context or information provided about where the gate is located. Please provide more details so that I can assist you better.",
+   "I'm sorry, but I don't have any specific information about where a \"gate\" is located as it could refer to various things such as a physical entrance or exit point, an electronic device, or even a metaphorical concept. Could you please provide more context or clarify what kind of \"gate\" you're referring to? This would help me give you a more accurate answer."
+  ]
+ },
+ {
+  "type": "out_of_domain",
+  "question": "What is the capital of Australia?",
+  "greedy": "The capital city of Australia is Canberra. It was established as the national capital in 1908 and serves as the seat of government for both federal and state governments. Canberra is located in the Australian Capital Territory and is surrounded by the Great Dividing Range. The city features a mix of modern architecture and historical landmarks, including the Australian War Memorial and the National Gallery of Australia.",
+  "samples": [
+   "The capital city of Australia is Canberra. It was established as the seat of government for the Australian Commonwealth and has become an important political center. Canberra is also home to many national institutions such as Parliament House and the High Court of Australia. The city features a unique blend of colonial architecture with modern designs, making it a diverse and vibrant metropolis.",
+   "The capital city of Australia is Canberra. It was established as the national capital in 1908 and serves as the seat of government for both federal and state governments. Canberra lies on the Australian Capital Territory and has become an important cultural and political center for Australia.",
+   "The capital of Australia is Canberra. It was established as the national capital in 1913 and serves as the seat of government for both federal and state governments. Canberra is located on the Australian Capital Territory and has become an important cultural and political center in the country.",
+   "The capital of Australia is Canberra. It was established as the nation's capital in 1908 and serves as the political center of the country."
+  ]
+ },
+ {
+  "type": "out_of_domain",
+  "question": "How do vaccines work?",
+  "greedy": "Vaccines work by introducing a small amount of weakened or inactive pathogen into the body, which stimulates the immune system to produce an immune response without causing disease. This helps the body build immunity against that specific pathogen, making it more resistant to future infections.",
+  "samples": [
+   "Vaccines work by introducing small amounts of weakened or inactive pathogens into the body, which stimulate the immune system to produce an immune response without causing disease. This triggers the production of antibodies and memory cells that provide long-lasting immunity against future infections from the same pathogen.",
+   "Vaccines work by introducing a weakened or inactive form of a pathogen into the body, which stimulates an immune response without causing disease. This triggers the production of antibodies and memory cells that can quickly recognize and neutralize the actual pathogen if encountered later, preventing infection.",
+   "Vaccines work by introducing a small amount of weakened or dead pathogens into the body, which stimulates the immune system to produce an immune response without causing disease. This helps the body build immunity against future infections from that specific pathogen.",
+   "Vaccines work by introducing a small amount of weakened or inactive pathogens into the body to stimulate an immune response without causing disease. This triggers the production of antibodies and memory cells that can quickly recognize and fight off future infections from the same pathogen, providing long-lasting immunity."
+  ]
+ },
+ {
+  "type": "out_of_domain",
+  "question": "Explain how a car engine works.",
+  "greedy": "A car engine converts the chemical energy stored in gasoline into mechanical energy that powers the vehicle's wheels. This process involves several key components: the combustion chamber where fuel and air mix and ignite; the piston which moves up and down inside the cylinder to create force; the crankshaft which connects the pistons to the transmission, converting linear motion into rotational power; and the clutch and transmission system which control the speed of rotation. The engine is typically fueled by gasoline or diesel, ignited by spark plugs when compressed air-fuel mixture reaches the right temperature and pressure.",
+  "samples": [
+   "A car engine converts chemical energy from gasoline into mechanical energy through the process of combustion. The engine's cylinders contain pistons that move up and down inside each cylinder when fuel is ignited with air compression. This creates pressure that turns the crankshaft, which powers the vehicle's wheels.",
+   "A car engine converts chemical energy from fuel into mechanical energy that powers the vehicle's wheels. It typically consists of several components including an internal combustion engine, pistons, valves, and spark plugs. The engine burns fuel (usually gasoline or diesel) in a cylinder, creating pressure that pushes the piston down and generates power. This force is transferred through gears and transmission systems to turn the wheels and propel the car forward.",
+   "A car engine converts the chemical energy from fuel into mechanical energy through a series of processes including compression, ignition, and combustion. The internal combustion engine compresses air inside the cylinder, heating it until it ignites when ignited with fuel. This creates high-pressure gases that push against the piston, generating power that is used to turn the crankshaft and drive the wheels.",
+   "A car engine is the heart of any vehicle and converts fuel into mechanical energy through internal combustion. It typically consists of four main components: the cylinders, pistons, valves, and spark plugs. The engine draws air and fuel from the carburetor or fuel injection system, mixes them with high-pressure fuel injectors, ignites them using spark plugs, and then compresses the mixture before it's ignited. This process creates pressure that forces the piston down, which turns the crankshaft and generates power. The exhaust gases produced during combustion exit the engine through the exhaust manifold and tailpipe."
+  ]
+ },
+ {
+  "type": "adversarial",
+  "question": "Why did Leonardo da Vinci design the Eiffel Tower?",
+  "greedy": "Leonardo da Vinci designed the Eiffel Tower as part of his work on the Paris Exposition of 1889, which was held to celebrate the centennial anniversary of the French Revolution. The tower was intended to be an engineering marvel and a symbol of France's technological prowess at that time. It was built for the World's Fair and is now one of the most recognizable structures in the world.",
+  "samples": [
+   "Leonardo da Vinci designed the Eiffel Tower for Gustave Eiffel during the 1889 Exposition Universelle (World's Fair) held in Paris, France. The tower was constructed as part of the exposition grounds and was intended to be an engineering marvel and a symbol of French industrial might at that time. Da Vinci had already conceptualized the idea of such a structure, but it was not until after his death that this vision became reality under the direction of Édouard Le Roy.",
+   "Leonardo da Vinci designed the Eiffel Tower for Gustave Eiffel and his engineering firm, initially as part of an international exhibition in Paris in 1889. Da Vinci's vision was to create a large iron structure that would be both aesthetically pleasing and structurally sound, reflecting his interest in aerodynamics and structural engineering. The tower was later completed with modifications by Gustave Eiffel himself, who refined the design to its current form.",
+   "Leonardo da Vinci designed the Eiffel Tower as part of his fascination with engineering and architecture during the early 19th century. He was inspired by the structural principles he had developed for other projects, such as the dome of St. Peter's Basilica, which he intended to apply to the construction of the tower. The tower's innovative lattice structure, which allowed it to be constructed quickly and efficiently without using traditional buttresses or supports, reflects his interest in modernizing architectural techniques and materials. Additionally, the tower served as an experiment in how large structures could be supported without internal support systems, anticipating future developments in bridge and building design.",
+   "Leonardo da Vinci designed the Eiffel Tower as part of his engineering and architectural studies during the construction of the Paris Exposition Universelle (now known as the World's Fair) in 1889. The tower was commissioned by the French government as an entry for the exposition and was intended to be both functional and aesthetically pleasing. While it is now recognized as one of the most iconic structures in the world due to its innovative design, including its lattice iron structure that allowed for mass production, at the time of its completion, it was considered revolutionary for its day. Its unique appearance has since become synonymous with France and the Eiffel Tower continues to serve multiple purposes beyond its original purpose as a monument."
+  ]
+ },
+ {
+  "type": "adversarial",
+  "question": "When did Shah Jahan build the Eiffel Tower?",
+  "greedy": "The Eiffel Tower was built between 1887 and 1889, while Shah Jahan ruled from 1628 to 1658. The two structures have no connection in terms of time or location.",
+  "samples": [
+   "The Eiffel Tower was built in Paris, France from 1887 to 1889 and is named after its designer Gustave Eiffel. Shah Jahan, on the other hand, was an emperor of the Mughal Empire who ruled India from 1628 until his death in 1658. Therefore, it is impossible for Shah Jahan to have built the Eiffel Tower since he lived over four centuries before its construction.",
+   "The Eiffel Tower was built between 1887 and 1889, while Shah Jahan lived from 1592 to 1666. Therefore, it is impossible for Shah Jahan to have built the Eiffel Tower since he lived long before its construction.",
+   "The Eiffel Tower was not built during Shah Jahan's time at all. The Eiffel Tower is a famous landmark located in Paris, France and was designed and constructed by Gustave Eiffel between 1887 and 1889 as the entrance arch for the 1889 World's Fair. Shah Jahan, on the other hand, ruled India from 1628 until his death in 1658. He is known for building the Taj Mahal, one of the most iconic buildings in the world.",
+   "I'm sorry for any confusion, but there is no connection between Shah Jahan and the Eiffel Tower. The Eiffel Tower was built by Gustave Eiffel in Paris, France from 1887 to 1889 as part of the World's Fair. Shah Jahan, who reigned from 1628 to 1658, was an Mughal Emperor of India known for his architectural achievements such as the Taj Mahal. There is no historical record that suggests he had anything to do with the construction of the Eiffel Tower."
+  ]
+ },
+ {
+  "type": "adversarial",
+  "question": "Why is the Great Wall of China visible from the Moon with the naked eye?",
+  "greedy": "The Great Wall of China can be seen from the Moon with the naked eye because it is so large and extends for thousands of kilometers across the landscape. The wall's height and width make it stand out against the vast expanse of lunar terrain, allowing observers on Earth or even from space to detect its presence. Additionally, the wall's consistent shape and orientation provide clear visual cues that distinguish it from other features on the moon's surface.",
+  "samples": [
+   "The Great Wall of China can be seen from the Moon because it is located on Earth and not obstructed by any celestial bodies or atmospheric conditions that would block its view from lunar orbit. Additionally, the wall has been illuminated by sunlight during the day, making it easily visible against the dark expanse of space.",
+   "The Great Wall of China can be seen from the Moon with the naked eye due to its high contrast against the dark background of space and Earth's atmosphere. The wall appears as a bright line against the black sky, making it easily distinguishable even at great distances. Additionally, atmospheric conditions such as clear skies and low sun angles enhance visibility.",
+   "The Great Wall of China can be seen from the Moon with the naked eye because it is very long and stretches across vast distances on Earth. The sheer scale of this ancient engineering marvel means that even at its greatest extent, it remains visible from our nearest celestial neighbor due to its size and visibility over long distances. Additionally, the wall's location between two large bodies of water like the Pacific Ocean and the Indian Ocean makes it more likely to remain visible during lunar eclipses or other periods when sunlight passes through these areas.",
+   "The Great Wall of China appears clearly on Earth due to its height and length, which reflect sunlight at different angles across various terrains. The unique combination of these factors makes it easily visible from space. However, when viewed from the Moon, atmospheric conditions such as dust storms or volcanic ash can obscure the view, making visibility challenging. Additionally, lunar eclipses could temporarily darken the region, further reducing visibility. Despite these challenges, some observers have reported seeing parts of the wall during rare favorable alignments between Earth and the Moon."
+  ]
+ },
+ {
+  "type": "adversarial",
+  "question": "How did the Egyptians build the Colosseum?",
+  "greedy": "The construction of the Colosseum was not built by the ancient Egyptians but rather by the Romans. The Colosseum is an iconic structure that stands as one of Rome's most recognizable landmarks and served as a grand amphitheater for gladiatorial contests and public spectacles during the Roman Empire. It was constructed between 70-80 AD under Emperor Vespasian and his son Titus, with further renovations made by Domitian. The engineering marvel required immense labor and resources, utilizing advanced techniques such as concrete and arches to withstand the weight of spectators and the pressure of water used in the games.",
+  "samples": [
+   "The construction of the Colosseum was completed around 80 AD during the reign of Emperor Vespasian and his son Titus. The Romans used techniques such as bricklaying, concrete, and arches to create the massive amphitheater. They also employed skilled workers and architects from different parts of the empire to ensure the project's success.",
+   "I'm sorry, but I cannot provide an answer to your question as it is unrelated to my capabilities and expertise in artificial intelligence. My knowledge base does not include historical information about ancient Egyptian construction techniques or the Colosseum. If you have any other questions that need assistance, feel free to ask.",
+   "I'm afraid there is no accurate information about how the ancient Egyptians built the Colosseum. The Colosseum was constructed during the Roman Empire, not the Egyptian civilization. The Romans were known for their advanced engineering and architectural skills, which allowed them to create impressive structures like the Colosseum. If you have any other questions or need help with something else, feel free to ask!",
+   "The construction of the Colosseum was not built by the ancient Egyptians but rather by the Romans during their rule over Rome from 27 BC to AD 476. The Romans used advanced engineering techniques and architectural knowledge to construct this iconic amphitheater. They employed skilled workers, architects, and engineers who developed innovative building methods that allowed for the impressive size and structure of the Colosseum."
+  ]
+ },
+ {
+  "type": "adversarial",
+  "question": "What year did the Taj Mahal move to Delhi?",
+  "greedy": "The Taj Mahal was moved from Agra to Delhi in 1903 as part of a larger project to modernize and expand the city. The decision was made due to overcrowding in Agra and the need for better infrastructure. The relocation involved moving the entire complex including the mausoleum, mosque, and gardens to a new site on the banks of the Yamuna River in New Delhi. This move marked a significant shift in the historical center of India's capital and has had lasting impacts on both the architectural and cultural landscape of the region.",
+  "samples": [
+   "The Taj Mahal was moved from Agra to New Delhi during the British Raj in India, specifically after the partition of India and Pakistan in 1947. It was moved to its current location in New Delhi as part of the city's expansion and modernization efforts. The relocation took place between 1861 and 1863 when the British authorities decided to build a new capital for India at New Delhi, which is now the capital of India. This decision involved moving many monuments and structures from their original locations, including the Taj Mahal, to accommodate the new planned layout of the city.",
+   "The Taj Mahal was originally built between 1632 and 1653 CE in Agra, India. It moved from Agra to New Delhi as part of a major urban planning project during the reign of Emperor Shah Jahan in the late 17th century. The relocation took place after the Mughal Empire's decline due to internal strife and foreign invasions. Today, it stands prominently on the banks of the Yamuna River in New Delhi, marking one of the most significant historical transfers of cultural heritage sites.",
+   "The Taj Mahal was moved from Agra to Delhi in 1903. It was relocated due to deteriorating conditions at its original site and to preserve it as an important monument of Islamic architecture. The new location is now considered the most significant part of the historic city of Shahjahanabad, which later became New Delhi.",
+   "The Taj Mahal moved from Agra to Delhi on December 13, 1903, when it was taken over by the British Empire. This relocation occurred as part of the partitioning of India and Pakistan during World War I, with the British acquiring control over much of the Indian subcontinent. The Taj Mahal's transfer to Delhi marked its final resting place under British rule until independence in 1947."
+  ]
+ }
+]
